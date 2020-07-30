@@ -1,0 +1,70 @@
+==================================================================
+https://keybase.io/jenselby
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of http://jenselby.com
+  * I am jenselby (https://keybase.io/jenselby) on keybase.
+  * I have a public key with fingerprint 94DF A3AF D88E 8701 9AB7  2C6A 2911 6476 C5E4 B575
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "01017732cac359c111512d067422fd28b773a1296521e921af502f393efe47eb1f150a",
+            "fingerprint": "94dfa3afd88e87019ab72c6a29116476c5e4b575",
+            "host": "keybase.io",
+            "key_id": "29116476c5e4b575",
+            "kid": "01017732cac359c111512d067422fd28b773a1296521e921af502f393efe47eb1f150a",
+            "uid": "a2270e7dd1795858169edecc491c3919",
+            "username": "jenselby"
+        },
+        "service": {
+            "hostname": "jenselby.com",
+            "protocol": "http:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1461047290,
+    "expire_in": 157680000,
+    "prev": "3e89cdac3283829c62f3142fb86b28d0246f3d1efc523a77e81a67be8eb0f891",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.53
+Comment: https://keybase.io/crypto
+
+yMIjAnicrVJbSBVBGD7eUSmDVHoIiw2l5Cg7szs7u6e0BENChFBEostpL7PH9bJ7
+PBdTxOyxekg0EYpQoigyyUvYxcrSfJCSrCzy1oMRlJoalCQm2KzUS/TYvAzz/9/3
+zff9/IMbwhwxIfeTU331872LIc/7m4OOooSRlRpGsbRqxlXDlJL1i5RpxB9wlxoa
+42JYwAKMOajKKockFQCAANRYAfMQ6hoUFdqUAZQEBAGRIJB1xEKdkziiEx4TBegA
+sTLjZHTD9BCf12eYASor8Zouc7KuiSIRMQskWcFQFWQoASDwWFAR4RWEESUWW36b
+Qc0psp+kGxat0Yd73d4/8P/Zd3BdToYQswRrGsASEpEIBIloRFV5CaicBCQb6Cc+
+Uy4nFF1CTD8pU6qZWidDq5WGSuzB2kn+QqSrVjnlen1WwFKtMtopDgS8LpsYqPba
+yBNEcf/WcCuGqdExUkIl8fkNy2RcgCLVgGGLAl4ALI+hxDoZUuU1fMRt2AiEBZGl
+x/6GVFJJjoiSqtHBQJEToaQKNDjgoa6IggJFjYW8oHMaILqKICdjTEQgC1ghIlFY
+XZQAY6eqMC3GxVObsodK+g2PKQeCPsLUDjw5Eu4IiXFERoTa6+WIid70Z+nGIqLW
+DqBZ55Ul2DYMkyvGl16dyotNyU7wFHV+yk8q6H24GlZyMXN3NNyb3M1sivq8M21f
+eU9Oa8/otgcNV5sTg6EjQ2czUvT00KLrZnfufFbimdmSoqYP8e9b9f2jmR33wtG7
+wsa+2OWc6UsNL6bwcHD8+NGWC6WraGD6R1JVTpVWGHfzWBhcOL0wNlx47it3K2/L
+RMNMwaEvkyvt83drU29cQ41v2ydC4hfXwn8+mtjckdF157zRMZc207Q9v//7YJd3
+CoxH9mWn3m5Hhy8vO18+rWzJPri1DYOyPRvr2+ti4prl0dIdz74pk7nN+SeHshpz
+a+aSi3dFZz5eev3xTQbbWfcLHWdBOg==
+=Cbtk
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jenselby
+
+==================================================================
+
+
